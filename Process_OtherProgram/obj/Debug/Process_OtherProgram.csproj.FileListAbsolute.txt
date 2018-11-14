@@ -1,0 +1,10 @@
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\bin\Debug\Process_OtherProgram.exe.config
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\bin\Debug\Process_OtherProgram.exe
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\bin\Debug\Process_OtherProgram.pdb
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.csprojAssemblyReference.cache
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.Form1.resources
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.Properties.Resources.resources
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.csproj.GenerateResource.cache
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.csproj.CoreCompileInputs.cache
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.exe
+D:\Code\Git\Process_OtherProgram\Process_OtherProgram\obj\Debug\Process_OtherProgram.pdb
